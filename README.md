@@ -20,7 +20,8 @@ Photography portfolio website showcasing a curated collection of images.
 ## Deployment
 
 This site can be deployed to:
-- Netlify (recommended)
+- Netlify
 - Vercel
 - GitHub Pages
+
 
